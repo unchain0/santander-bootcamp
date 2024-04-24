@@ -1,0 +1,7 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "readableLineLength": true,
+  "strictLineBreaks": false
+}

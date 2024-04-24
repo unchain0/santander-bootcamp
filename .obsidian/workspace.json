@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "c35648e482a231ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "82aeda3e9b0ab5ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e383e69a8464bd3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git e GitHub/Resumos Git e GitHub.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "67b35d7007e9841d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git e GitHub/Primeiros Passos/1/Criando e Clonando Repositórios.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c2caa0d0ba4603e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a718fcaf95a7b488",
+        "type": "tabs",
+        "dimension": 57.21153846153846,
+        "children": [
+          {
+            "id": "5a6e882912bdf337",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "adcc233b617ee296",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fila",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4fb0e1f3de28d3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "27072e783ed0b607",
+        "type": "tabs",
+        "dimension": 42.78846153846153,
+        "children": [
+          {
+            "id": "c0100799465145aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git e GitHub/Resumos Git e GitHub.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398.51103591918945
+  },
+  "right": {
+    "id": "b5202ddf5b0921cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "093a91dbac1fba83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "899ae6d825e5dde6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a79079ca5319ce1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git e GitHub/Resumos Git e GitHub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 523.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Inserir modelo": false,
+      "graph:Abrir visualização em gráfico": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "4e383e69a8464bd3",
+  "lastOpenFiles": [
+    "Git e GitHub/Primeiros Passos/1/Criando e Clonando Repositórios.md",
+    "Git e GitHub/Resumos Git e GitHub.md",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/3/O que é GitHub.md",
+    "Git e GitHub/Primeiros Passos/2/Salvando Alterações no Repositório Local.md",
+    "Git e GitHub/Primeiros Passos/1/Criando e Clonando Repositórios.png",
+    "Git e GitHub/Primeiros Passos/2",
+    "Git e GitHub/Primeiros Passos/1",
+    "Git e GitHub/Primeiros Passos",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/3/Breve Histórico do GitHub.png",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/3/O que é GitHub.png",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/2/O que é Git.md",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/3",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/2/Breve Histórico do Git.png",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/2/O que é Git.png",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/1/O que é Versionamento de Código.md",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/2",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/1/VCS Distribuído (DVCS).png",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/1",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/1/Sistemas de Controle de Versão.png",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/1/VCS Centralizado (CVCS).png",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/1/Tipos de Sistemas de Controle de Versão.png",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas",
+    "Welcome.md",
+    "Git e GitHub",
+    "smart-chats",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 4/Variáveis Locais.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 4/Introdução.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 4/Escopo de Variáveis.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 4/Parâmetros Formais.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 4/Variáveis Globais.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 3/Figura.jpg",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 3/Verificando Aprendizado.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 4",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 3/Definições.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 3/Passagem de Parâmetros.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 3/Passagem de Vetores.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 3/Protótipos de Sub-Rotinas.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 3/Introdução.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 2/Verificando Aprendizado.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 1/Verificando Aprendizado.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 2/Funções de Manipulação de String.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 2/Funções de Manipulação de Tipos de Dados.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 2/Funções de Manipulação de Arquivos.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 2/Funções de E-S Padrão.md",
+    "Estruturas de Dados/Tema 3 - Modularização/Módulo 2/Conceitos.md",
+    "Excalidraw/Drawing 2024-04-23 08.05.23.excalidraw.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas"
+  ]
+}
