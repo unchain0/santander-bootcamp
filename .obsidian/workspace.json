@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git e GitHub/Resumos Git e GitHub.md",
+                "file": "Git e GitHub/README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,19 +23,20 @@
             }
           },
           {
-            "id": "67b35d7007e9841d",
+            "id": "97f621f6d2ad28f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git e GitHub/Primeiros Passos/1/Criando e Clonando Repositórios.md",
+                "file": "Git e GitHub/README.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git e GitHub/Resumos Git e GitHub.md"
+                "file": "Git e GitHub/README.md"
               }
             }
           }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git e GitHub/Resumos Git e GitHub.md",
+                "file": "Git e GitHub/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,12 +149,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e383e69a8464bd3",
+  "active": "97f621f6d2ad28f5",
   "lastOpenFiles": [
-    "Git e GitHub/Primeiros Passos/1/Criando e Clonando Repositórios.md",
-    "Git e GitHub/Resumos Git e GitHub.md",
-    "Git e GitHub/Visão Geral do Curso e Ferramentas/3/O que é GitHub.md",
     "Git e GitHub/Primeiros Passos/2/Salvando Alterações no Repositório Local.md",
+    "Git e GitHub/README.md",
+    "Git e GitHub/Primeiros Passos/1/Criando e Clonando Repositórios.md",
+    "Git e GitHub/Visão Geral do Curso e Ferramentas/3/O que é GitHub.md",
     "Git e GitHub/Primeiros Passos/1/Criando e Clonando Repositórios.png",
     "Git e GitHub/Primeiros Passos/2",
     "Git e GitHub/Primeiros Passos/1",
